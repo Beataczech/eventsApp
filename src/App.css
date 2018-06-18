@@ -1,0 +1,20 @@
+body{
+  font-size: 16px;
+}
+
+.header{
+  height: 80px;
+  background: rgb(255, 204, 92);
+}
+.header__logo {
+  margin: 0;
+  height: 100%;
+  padding: 0 10%;
+  text-align: center;
+  line-height: 80px;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3em;
+  font-weight: 900;
+  letter-spacing: 10px;
+}
